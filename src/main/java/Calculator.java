@@ -2,6 +2,9 @@ import java.util.UUID;
 
 class Calculator {
 
+    /*
+     * Initializor
+     */
     Calculator(){
 
     }
